@@ -1,2 +1,2 @@
 # PythonWeatherApp.
-The file has a code in python for the project.
+The file has a code in python for the weather application project.
